@@ -23,7 +23,7 @@ function clickToSubmit() {
     alert("please enter your phone number.");
     return;
   }
-
+// commmit
   window.document.getElementById("name1").innerHTML = name;
   window.document.getElementById("email1").innerHTML = email;
   window.document.getElementById("age1").innerHTML = age;
